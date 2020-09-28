@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi 👋, I'm Vihanga_👇
+Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Undergraduate in SLIIT 🎓 Besides programming, I enjoy watching movies & listening to music🎼
 
-<!--
-**deshanviha/deshanviha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tharana
 
-Here are some ideas to get you started:
+GIF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🔭 I’m currently studying as an Undergraduate
+
+    🌱 I’m currently learning Web application security and Cryptography
+
+    👯 I’m looking to collaborate on open source/commercial projects
+
+    🤝 I’m looking for help with Pentesting
+
+    💬 Ask me about Web developing
+
+    📫 How to reach me deshanvd@gmail.com
+
