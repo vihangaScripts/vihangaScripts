@@ -1,6 +1,16 @@
 Hi 👋, I'm Vihanga_👇
 Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Undergraduate in SLIIT 🎓 Besides programming, I enjoy watching movies & listening to music🎼
 
+<a href="https://twitter.com/thilanbawantha">
+  <img align="left" alt="Vihanga9902 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/bawanthathilan/">
+  <img align="left" alt="Vihanga Deshan LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/bawwa_/">
+  <img align="left" alt="vihanga_9_9_vd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 
 GIF
 
