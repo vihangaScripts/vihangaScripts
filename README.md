@@ -33,6 +33,8 @@ GIF
 <img align="right" alt="GIF" width ="350" src="https://www.accunityservices.com/img/coding.gif"/>
 <img align="right" alt="GIF" width ="350" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
+<img align="right" alt="GIF" width ="350" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif"/>
+
 
 
 
