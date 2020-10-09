@@ -1,6 +1,10 @@
 Hi 👋, I'm Vihanga_👇
 Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Undergraduate in SLIIT 🎓 Besides programming, I enjoy watching movies & listening to music🎼
+<br>
+
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+
+<br>
 <a href="https://twitter.com/Vihanga9902">
 <img align="center" alt="Vihanga9902 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
