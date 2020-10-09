@@ -30,8 +30,9 @@ GIF
 ![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 imagews ------- 
-<img align="right" alt="GIF" width ="350" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/ style="background-color:black;">
-<img align="right" alt="GIF" width ="350" src="https://www.accunityservices.com/img/coding.gif"/>  
+
+<img align="right" alt="GIF" width ="350" src="https://www.accunityservices.com/img/coding.gif"/>
+<img align="right" alt="GIF" width ="350" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
 
 
