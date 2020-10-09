@@ -1,13 +1,13 @@
 Hi 👋, I'm Vihanga_👇
 Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Undergraduate in SLIIT 🎓 Besides programming, I enjoy watching movies & listening to music🎼
 
-<a href="https://twitter.com/thilanbawantha">
+<a href="https://twitter.com/Vihanga9902">
   <img align="left" alt="Vihanga9902 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/bawanthathilan/">
+<a href="https://www.linkedin.com/in/Vihanga Deshan/">
   <img align="left" alt="Vihanga Deshan LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/bawwa_/">
+<a href="https://www.instagram.com/vihanga_9_9_vd/">
   <img align="left" alt="vihanga_9_9_vd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
