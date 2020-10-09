@@ -6,13 +6,13 @@ Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Underg
 
 <br>
 <a href="https://twitter.com/Vihanga9902">
-<img align="center" alt="Vihanga9902 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Vihanga9902 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/Vihanga Deshan/">
-  <img align="center" alt="Vihanga Deshan LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Vihanga Deshan LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/vihanga_9_9_vd/">
-  <img align="center" alt="vihanga_9_9_vd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="vihanga_9_9_vd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
     🔭 I’m currently studying as an Undergraduate
