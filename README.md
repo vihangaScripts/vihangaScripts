@@ -23,8 +23,6 @@ imagews -------
 <img align="right" alt="GIF" width ="350" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 <img align="right" alt="GIF" width ="350" src="https://www.accunityservices.com/img/coding.gif"/>  
 <img align="right" alt="GIF" width ="350" src="https://i.pinimg.com/originals/39/69/e7/3969e78d0ac84312a051deb4cda4dc0d.gif"/>
-<img align="right" alt="GIF" width ="350" src="https://media1.giphy.com/avatars/404academy/kGwR3uDrUKPI.gif"/>
-
 
 
 
