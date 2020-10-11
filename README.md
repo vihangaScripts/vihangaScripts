@@ -1,4 +1,3 @@
-Hi 👋, I'm Vihanga_👇
 Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Undergraduate in SLIIT 🎓 Besides programming, I enjoy watching movies & listening to music🎼
 <br>
 
