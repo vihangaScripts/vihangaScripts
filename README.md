@@ -8,7 +8,7 @@ Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Underg
 <a href="https://twitter.com/Vihanga9902">
 <img align="left" alt="Vihanga9902 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/Vihanga Deshan/">
+<a href="https://www.linkedin.com/in/vihanga-deshan-978755186/">
   <img align="left" alt="Vihanga Deshan LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/vihanga_9_9_vd/">
