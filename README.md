@@ -35,12 +35,11 @@ Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Underg
 
 
 <p align="left"><img src="https://user-images.githubusercontent.com/20749736/29601283-58be7ef6-87f8-11e7-82b5-0bfe982044d2.png" alt="android" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/java-programming-language.png" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/640px-Oracle_Logo.svg.png" alt="oracle" width="40" height="40"/> <img src="https://lh3.googleusercontent.com/proxy/MnQ1oYm63mu4jneG6fPCAGcTsu7kqNBvvEen-3ofguNTsVQrifg49A33oHjTLLrzcrfUnzVbRQSAjnpBVT4I9GfzVJVoTQ5mDjOpNKrX8M4oDJwm12EEFvT9HcHwUyPTqnS7QFLWmXlnGVn-lrr90z4" alt="python" width="40" height="40"/> <img src="https://seeklogo.net/wp-content/uploads/2020/09/react-logo-512x512.png" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/angularjs/angularjs-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
