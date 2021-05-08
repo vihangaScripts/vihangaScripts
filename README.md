@@ -39,7 +39,7 @@ Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Underg
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/java-programming-language.png" alt="java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Oracle_Logo.svg/640px-Oracle_Logo.svg.png" alt="oracle" width="40" height="40"/> <img src="https://lh3.googleusercontent.com/proxy/MnQ1oYm63mu4jneG6fPCAGcTsu7kqNBvvEen-3ofguNTsVQrifg49A33oHjTLLrzcrfUnzVbRQSAjnpBVT4I9GfzVJVoTQ5mDjOpNKrX8M4oDJwm12EEFvT9HcHwUyPTqnS7QFLWmXlnGVn-lrr90z4" alt="python" width="40" height="40"/> <img src="https://seeklogo.net/wp-content/uploads/2020/09/react-logo-512x512.png" alt="react" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/oracle-226044.png" alt="oracle" width="40" height="40"/> <img src="https://lh3.googleusercontent.com/proxy/MnQ1oYm63mu4jneG6fPCAGcTsu7kqNBvvEen-3ofguNTsVQrifg49A33oHjTLLrzcrfUnzVbRQSAjnpBVT4I9GfzVJVoTQ5mDjOpNKrX8M4oDJwm12EEFvT9HcHwUyPTqnS7QFLWmXlnGVn-lrr90z4" alt="python" width="40" height="40"/> <img src="https://seeklogo.net/wp-content/uploads/2020/09/react-logo-512x512.png" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/angularjs/angularjs-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
