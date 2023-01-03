@@ -37,20 +37,6 @@ Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Underg
 <br/>
 <img align="right" alt="GIF" width ="350" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
-
-
-
-
-<p align="left"><img src="https://user-images.githubusercontent.com/20749736/29601283-58be7ef6-87f8-11e7-82b5-0bfe982044d2.png" alt="android" width="40" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fjava-4&psig=AOvVaw2XSZcvh0KZzNxG5I4rO0Ro&ust=1672856458522000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjZwImCrPwCFQAAAAAdAAAAABAE"  alt="nodejs" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
-  <img src="https://seeklogo.net/wp-content/uploads/2020/09/react-logo-512x512.png" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/angularjs/angularjs-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deshanviha&show_icons=true" alt="deshanviha " /></p>
 
 
