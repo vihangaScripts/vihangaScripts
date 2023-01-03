@@ -31,6 +31,10 @@ Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Underg
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <img align="right" alt="GIF" width ="350" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
 
@@ -39,7 +43,7 @@ Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Underg
 
 <p align="left"><img src="https://user-images.githubusercontent.com/20749736/29601283-58be7ef6-87f8-11e7-82b5-0bfe982044d2.png" alt="android" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/java-programming-language.png" alt="java" width="40" height="40"/> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcodeedu%2Fmicro-admin-videos-java&psig=AOvVaw0eCNY7OnRMrYPZhYxyzQBF&ust=1672856336978000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCk0c-BrPwCFQAAAAAdAAAAABAE/> 
   <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
