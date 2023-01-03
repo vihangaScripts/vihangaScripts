@@ -27,7 +27,10 @@ Hi, I'm Vihanga Deshan,🚀 from Srilanka,👨🏽‍💻 currently I'm a Underg
     📫 How to reach me deshanvd@gmail.com
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 <img align="right" alt="GIF" width ="350" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
 
